@@ -1,0 +1,26 @@
+﻿.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+/*设置页面头部的样式*/
+#header{
+	height: 70px;
+	background-color: #0000ff;
+	}
+#header .caption{
+	font-size: 30px;
+	color: #FFFFFF;
+}
+#header .header_left div{
+	float: left;
+	margin: 5px 10px 0px;
+}
+#header .search{
+	font-size: 10px;
+	color: #4169E1;
+}
+#guijidepict{
+	background-color:#F5F5F5;
+}
